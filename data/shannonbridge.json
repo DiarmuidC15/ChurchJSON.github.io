@@ -1,7 +1,7 @@
 {
-  "radio": "1",
-  "stream": "1",
-  "controller_update_time": "1",
-  "server_update_time": "1",
+  "radio": "-1",
+  "stream": "-1",
+  "controller_update_time": "-1",
+  "server_update_time": "-1",
   "location": "DEFAULT"
 }
